@@ -1,0 +1,11 @@
+.btn-blue, .btn-blue:visited {
+	border-radius: 4px;
+	background-color: whitesmoke;
+	font-style: none;
+	font-weight: lighter;
+	text-decoration: none;
+	margin: 25px 0;
+	padding: 10px;
+	color: black;
+	font-size: 2vmin;
+}
