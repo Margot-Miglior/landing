@@ -37,3 +37,10 @@ body, html {
 .content p {
 	text-align: justify;
 }
+
+.inline-column {
+	margin: 5%;
+	display: inline-flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
