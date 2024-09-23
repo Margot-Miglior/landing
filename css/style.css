@@ -8,18 +8,21 @@
 @import url("components/cards.css");
 @import url("components/container.css");
 
-h1, p, a {
+h1, h2,  p, a {
 	font-family: 'Poppins', sans-serif;
 	margin: 0;
-	color: white;
 }
 
 h1 {
 	font-size: 8vmin;
 }
 
-p {
+h2 {
 	font-size: 3vmin;
+}
+
+p {
+	font-size: 2vmin;
 }
 
 body, html {
@@ -30,4 +33,12 @@ body, html {
 .abo {
 	margin-bottom: auto;
 	margin-top: 15px;
+}
+
+.content {
+	margin: 5vh 5vw;
+}
+
+.content p {
+	text-align: justify;
 }
