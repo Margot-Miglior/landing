@@ -13,8 +13,9 @@
 	align-items: center;
 	justify-content: center;
 	text-align: center;
-	width: 50%;
-	flex-basis: 250px;
+	width: 80%;
+	height: auto;
+	flex-basis: 40vw;
 	flex-grow: 0;
 	padding: 10px;
 	margin: 10px;
@@ -37,4 +38,8 @@
 	width: 40%;
 	height: auto;
 	padding-right: 15px;
+}
+
+.big-card {
+	height: auto;
 }

@@ -6,6 +6,7 @@
 @import url("components/banner.css");
 @import url("components/button.css");
 @import url("components/cards.css");
+@import url("components/container.css");
 
 h1, p, a {
 	font-family: 'Poppins', sans-serif;
@@ -28,5 +29,5 @@ body, html {
 
 .abo {
 	margin-bottom: auto;
-	margin-top: 300px;
+	margin-top: 15px;
 }
