@@ -44,8 +44,3 @@ body, html {
 	flex-direction: column;
 	flex-wrap: wrap;
 }
-
-.typeform {
-	width: 30%;
-	height:auto;
-}
