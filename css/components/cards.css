@@ -14,7 +14,6 @@
 	justify-content: center;
 	text-align: center;
 	width: 80%;
-	height: auto;
 	flex-basis: 40vw;
 	flex-grow: 0;
 	padding: 10px;
@@ -37,8 +36,5 @@
 .card img {
 	width: 40%;
 	height: auto;
-}
-
-.cards h3 {
-	margin: 5%;
+	padding-right: 15px;
 }
